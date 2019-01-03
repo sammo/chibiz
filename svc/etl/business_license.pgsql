@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS business_license(
 	address								varchar,
 	city								varchar,
 	state								varchar,
-	zip_code								varchar,
+	zip_code							varchar,
 	ward								integer,
 	precinct							integer,
 	ward_precinct						varchar,
